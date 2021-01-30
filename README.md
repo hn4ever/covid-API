@@ -1,4 +1,4 @@
-# COVID API
+# COVID data from CDC APIs
 Covid data obtained from APIs of Centers for Disease Control and Prevention (CDC) covering all COVID cases cross the United States. It contains updated data of vaccines (by states) and covid cases (by counties).
 
 This app is deployed to Heroku, to access the API:
